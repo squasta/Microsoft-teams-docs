@@ -38,7 +38,7 @@ For this part of the exercise, you'll need [cURL](https://curl.haxx.se/). It's a
 
 1.	From the command line, enter the following cURL command:
 
-	`curl -H "Content-Type: application/json" -d "{\"text\": \"Hello World!\"}" <YOUR WEBHOOK URL>`
+	`curl -H "Content-Type: application/json" -d "{\"text\": \"Hello World! \"}" <YOUR WEBHOOK URL>`
 
 2.	If the POST succeeds, you should see a simple 1 output by cURL.
 
